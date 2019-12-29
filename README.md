@@ -16,3 +16,5 @@ So for this one, I sort of took up where I left off. This was the slide I create
 ![Slide from Excel Marathons slideshow depicting the number of marathoners who participated in multiple races](https://user-images.githubusercontent.com/52726447/69395009-382e9180-0ca3-11ea-8944-f88a7ea4a974.png)
 I decided to look at performance metrics to see why these runners might continue to run races. I looked first at their performance relative to other runners, then at their performance over time (in other words, their performance relative to themselves).
 What I discovered was, I think, indeed interesting. There was no obvious correlation between runners doing well either relative to others or themselves to indicate why they might return to the run. I concluded that perhaps the race was in fact not very competitive at all, and that they might be running for the otherwise very touristy perks.
+
+**If you want to see more of this data, [here](https://github.com/jraiaromano/Excel_Marathons) is a link to my first excel analysis of this dataset.*
